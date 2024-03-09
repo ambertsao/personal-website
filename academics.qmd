@@ -1,6 +1,8 @@
 ---
-title: "Relevant Coursework"
+toc: false
 ---
+
+## Relevant Coursework
 
 - Statistical programming
 
