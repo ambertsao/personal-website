@@ -3,7 +3,6 @@ toc: false
 ---
 
 
-## Amber Tsao
 
 This is a Quarto website.
 

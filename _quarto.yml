@@ -7,10 +7,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: Bio
-      - href: projects.qmd
-        text: Projects
 
 format:
   html:
