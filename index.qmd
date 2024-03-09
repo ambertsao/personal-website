@@ -1,11 +1,22 @@
 ---
 toc: false
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      url: "https://www.linkedin.com/in/amber-tsao-862b22210/"
+    - icon: github
+      text: Github
+      url: https://github.com/ambertsao
+    - icon: inbox-fill
+      text: Email
+      url: "mailto:ambertsao@g.ucla.edu"
+image: ambertsao-cropped.JPG
 ---
 
 
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Attached is my current [CV](/docs/CV/CV.pdf "CV")
 
 
