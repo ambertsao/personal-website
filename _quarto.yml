@@ -7,6 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: academics.qmd
+        text: Academics
 
   page-footer:
     right: "&copy; 2024, Amber Tsao"

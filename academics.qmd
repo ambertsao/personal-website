@@ -1,0 +1,21 @@
+---
+title: "Relevant Coursework"
+---
+
+- Statistical programming
+
+- Linear models
+
+- Data analysis and regression
+
+- Design and analysis of experiments
+
+- Data mining
+
+- Computation and optimization for statistics
+
+- Monte Carlo methods
+
+- Econometrics
+
+- Time series analysis and economic forecasting
